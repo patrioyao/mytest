@@ -4,7 +4,7 @@ void main()
 {
   printf("This is mytest on github\n");
   
-  printf("end");
+  printf("end\n");
   
   return;
 }
